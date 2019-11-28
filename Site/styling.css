@@ -1,7 +1,7 @@
 *{padding: 0; margin: 0; box-sizing: border-box;}
 body{height: 900px;}
 body {
-	background: url('https://cmskce.herokuapp.com/Site/beer.jpg');
+	background: url('https://cmskce.herokuapp.com/Site/sky.png');
 	background-size: 100% 25%;
 	background-repeat: no-repeat;
 	text-align: center;
